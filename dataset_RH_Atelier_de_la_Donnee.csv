@@ -1,0 +1,301 @@
+ID,Sexe,Âge,Département,Salaire Mensuel Brut (€),Statut,Grade,Date_Entrée,Jours d'absence,Ancienneté (années),Turnover_2024
+1,Homme,54,Commercial,3190.0,CDI,Agent de maîtrise,2015-05-26,0,9.6,1
+2,Femme,22,IT,3230.0,CDI,Agent de maîtrise,2017-07-03,5,7.5,0
+3,Homme,40,Finance,2310.0,CDI,Employé,2023-04-29,4,1.7,0
+4,Homme,23,Commercial,3740.0,CDD,Cadre,2019-01-02,3,6.0,0
+5,Homme,47,Finance,3970.0,Alternance,Cadre,2021-04-08,7,3.7,0
+6,Femme,53,RH,3040.0,CDD,Cadre,2016-08-03,4,8.4,0
+7,Homme,27,Finance,5150.0,CDI,Employé,2022-06-27,7,2.5,0
+8,Homme,53,Production,3010.0,CDI,Agent de maîtrise,2019-05-04,5,5.7,0
+9,Homme,25,Finance,2900.0,CDI,Employé,2016-04-27,2,8.7,0
+10,Femme,32,Finance,2870.0,CDI,Employé,2023-09-15,1,1.3,0
+11,Homme,38,Production,2570.0,CDI,Cadre dirigeant,2018-06-03,6,6.6,0
+12,Homme,59,IT,2800.0,CDI,Employé,2016-11-03,2,8.2,0
+13,Homme,45,Finance,2010.0,CDI,Agent de maîtrise,2016-09-22,3,8.3,0
+14,Homme,26,Production,3130.0,CDI,Agent de maîtrise,2022-06-01,3,2.6,0
+15,Femme,55,Commercial,3350.0,CDD,Cadre,2016-10-23,3,8.2,0
+16,Homme,27,RH,1250.0,CDI,Agent de maîtrise,2022-10-23,4,2.2,0
+17,Femme,43,RH,3210.0,CDI,Employé,2021-10-02,9,3.3,0
+18,Femme,32,Finance,3340.0,CDD,Employé,2017-09-14,4,7.3,0
+19,Femme,37,IT,3760.0,CDI,Agent de maîtrise,2023-11-06,4,1.2,0
+20,Homme,54,IT,4380.0,CDD,Employé,2019-03-27,7,5.8,0
+21,Femme,30,Commercial,4070.0,CDI,Employé,2016-10-11,7,8.2,0
+22,Homme,27,Finance,2740.0,CDI,Employé,2017-08-26,4,7.4,0
+23,Femme,37,RH,2640.0,CDD,Employé,2022-03-22,3,2.8,0
+24,Femme,50,IT,3820.0,CDD,Employé,2018-01-05,6,7.0,0
+25,Femme,24,Finance,2810.0,CDD,Employé,2021-12-31,6,3.0,0
+26,Femme,41,IT,2190.0,CDI,Agent de maîtrise,2016-03-16,0,8.8,0
+27,Femme,57,Production,5440.0,CDI,Cadre,2017-07-09,3,7.5,0
+28,Femme,40,IT,3020.0,CDI,Cadre,2017-02-08,5,7.9,0
+29,Femme,47,RH,2740.0,CDI,Employé,2018-09-05,4,6.3,0
+30,Femme,24,Marketing,1330.0,Alternance,Employé,2020-01-01,3,5.0,0
+31,Homme,40,Commercial,4070.0,CDI,Employé,2015-09-20,3,9.3,1
+32,Homme,41,Commercial,2410.0,Stage,Agent de maîtrise,2019-04-27,7,5.7,0
+33,Femme,53,RH,3330.0,CDI,Cadre,2022-05-08,3,2.7,1
+34,Femme,28,IT,4170.0,CDI,Employé,2023-11-13,3,1.1,0
+35,Femme,54,Finance,2420.0,CDI,Cadre,2021-11-11,3,3.1,0
+36,Homme,61,IT,3370.0,Alternance,Employé,2017-09-25,6,7.3,0
+37,Femme,60,RH,4670.0,CDD,Agent de maîtrise,2016-11-30,3,8.1,0
+38,Homme,39,Commercial,1090.0,CDD,Cadre,2021-06-07,6,3.6,0
+39,Homme,61,IT,2570.0,CDD,Cadre,2019-05-23,2,5.6,1
+40,Homme,22,Commercial,2490.0,CDD,Cadre,2018-05-26,7,6.6,0
+41,Homme,32,Finance,3130.0,CDD,Cadre,2018-01-30,4,6.9,0
+42,Homme,49,Commercial,3260.0,CDI,Employé,2022-02-14,4,2.9,0
+43,Femme,46,Commercial,2340.0,CDI,Cadre,2021-05-24,1,3.6,0
+44,Femme,44,Marketing,2710.0,CDI,Employé,2018-04-05,5,6.7,0
+45,Femme,52,Marketing,2600.0,Stage,Cadre,2022-04-22,6,2.7,0
+46,Femme,51,Production,2980.0,Alternance,Agent de maîtrise,2017-10-02,1,7.3,0
+47,Femme,56,Marketing,3500.0,CDI,Cadre,2015-02-05,5,9.9,0
+48,Homme,28,Commercial,4120.0,CDD,Agent de maîtrise,2017-01-13,5,8.0,0
+49,Femme,37,RH,4250.0,Alternance,Agent de maîtrise,2019-10-31,1,5.2,0
+50,Femme,47,Commercial,3890.0,CDI,Agent de maîtrise,2015-12-19,3,9.0,0
+51,Homme,23,RH,2510.0,CDI,Cadre,2020-04-06,4,4.7,0
+52,Femme,22,RH,3300.0,Alternance,Employé,2015-03-14,1,9.8,0
+53,Homme,33,Marketing,5440.0,CDI,Employé,2022-05-19,2,2.6,1
+54,Femme,26,IT,4210.0,CDD,Employé,2018-10-08,4,6.2,0
+55,Homme,58,Finance,2900.0,CDI,Employé,2020-03-29,4,4.8,0
+56,Femme,53,Marketing,4720.0,Alternance,Cadre,2017-12-29,5,7.0,0
+57,Femme,30,Marketing,2950.0,Stage,Employé,2021-10-08,5,3.2,0
+58,Homme,56,IT,2700.0,Alternance,Cadre dirigeant,2023-05-05,1,1.7,1
+59,Homme,40,Finance,4560.0,CDI,Employé,2016-12-08,4,8.1,0
+60,Homme,37,Commercial,2120.0,Alternance,Employé,2019-12-10,3,5.1,0
+61,Homme,24,Production,1580.0,CDD,Cadre,2022-02-21,3,2.9,0
+62,Homme,41,Production,4150.0,CDI,Cadre,2022-11-15,6,2.1,0
+63,Homme,45,Commercial,3320.0,CDD,Agent de maîtrise,2017-08-13,3,7.4,1
+64,Homme,54,Marketing,3410.0,CDI,Agent de maîtrise,2022-01-08,3,3.0,0
+65,Homme,45,Finance,2970.0,CDI,Cadre,2021-10-11,2,3.2,1
+66,Femme,32,Marketing,3090.0,CDI,Employé,2015-06-09,6,9.6,0
+67,Femme,29,RH,2890.0,CDI,Cadre dirigeant,2021-01-05,4,4.0,0
+68,Homme,57,Marketing,2740.0,CDI,Cadre dirigeant,2022-09-24,3,2.3,0
+69,Femme,59,Marketing,2960.0,CDD,Cadre,2019-10-02,4,5.3,0
+70,Femme,61,Commercial,2930.0,CDI,Employé,2019-05-05,5,5.7,0
+71,Femme,41,Commercial,2550.0,CDD,Cadre,2015-03-08,6,9.8,0
+72,Femme,56,Commercial,2810.0,CDI,Employé,2023-05-20,7,1.6,0
+73,Homme,46,Production,1050.0,CDI,Employé,2021-08-25,4,3.4,0
+74,Femme,56,RH,3920.0,CDI,Employé,2015-02-27,4,9.9,0
+75,Homme,46,Commercial,3650.0,CDD,Agent de maîtrise,2015-12-08,6,9.1,1
+76,Femme,50,Finance,3220.0,CDI,Cadre,2018-02-27,3,6.8,0
+77,Femme,39,Production,3510.0,CDI,Cadre,2022-08-06,4,2.4,0
+78,Femme,39,IT,3550.0,Alternance,Cadre,2018-04-10,6,6.7,0
+79,Homme,23,Finance,2650.0,CDI,Agent de maîtrise,2022-09-18,6,2.3,0
+80,Femme,56,Finance,2820.0,CDI,Employé,2022-04-15,3,2.7,0
+81,Homme,37,Commercial,3780.0,CDI,Employé,2018-05-17,2,6.6,1
+82,Femme,57,IT,3490.0,Alternance,Cadre dirigeant,2021-07-29,8,3.4,0
+83,Homme,54,IT,5140.0,CDI,Employé,2019-02-03,4,5.9,0
+84,Femme,25,Production,4760.0,Alternance,Cadre,2019-12-27,4,5.0,0
+85,Homme,54,IT,4140.0,CDI,Agent de maîtrise,2015-04-26,4,9.7,1
+86,Homme,35,RH,2610.0,Alternance,Agent de maîtrise,2016-10-23,1,8.2,0
+87,Femme,42,Commercial,2790.0,CDD,Cadre,2019-01-05,10,6.0,0
+88,Homme,41,IT,2400.0,Stage,Agent de maîtrise,2021-11-05,6,3.2,0
+89,Femme,29,Production,3550.0,CDI,Cadre,2020-02-12,1,4.9,1
+90,Femme,28,RH,830.0,CDD,Cadre,2021-05-23,8,3.6,0
+91,Femme,24,Marketing,2890.0,CDI,Agent de maîtrise,2017-10-13,6,7.2,0
+92,Femme,38,Marketing,3020.0,CDI,Employé,2015-11-07,3,9.2,0
+93,Femme,54,RH,1930.0,CDI,Agent de maîtrise,2015-07-27,0,9.4,0
+94,Femme,33,Production,4020.0,Alternance,Cadre,2022-04-19,4,2.7,0
+95,Femme,43,RH,2270.0,Stage,Employé,2021-10-29,5,3.2,0
+96,Femme,43,Commercial,3540.0,CDD,Agent de maîtrise,2022-06-10,2,2.6,0
+97,Femme,51,Commercial,5810.0,CDI,Agent de maîtrise,2016-09-24,2,8.3,0
+98,Femme,59,Marketing,1850.0,CDI,Cadre,2020-10-03,4,4.2,0
+99,Femme,59,IT,3170.0,CDD,Employé,2023-02-07,3,1.9,0
+100,Homme,29,Production,2930.0,CDI,Cadre,2023-06-11,7,1.6,0
+101,Homme,48,Marketing,2760.0,CDI,Cadre,2016-10-18,7,8.2,0
+102,Femme,48,IT,3980.0,CDI,Employé,2018-11-24,3,6.1,0
+103,Femme,55,IT,4300.0,CDI,Employé,2020-04-15,7,4.7,0
+104,Femme,42,Commercial,3990.0,CDI,Cadre dirigeant,2023-04-16,1,1.7,0
+105,Femme,51,Finance,2650.0,CDI,Employé,2022-01-06,2,3.0,0
+106,Femme,54,Finance,5490.0,CDI,Cadre,2019-08-07,3,5.4,0
+107,Femme,49,RH,1710.0,CDI,Agent de maîtrise,2015-08-25,3,9.4,0
+108,Femme,54,Commercial,2370.0,Stage,Employé,2015-12-14,2,9.1,0
+109,Femme,26,IT,3450.0,CDI,Cadre,2022-04-28,0,2.7,0
+110,Homme,40,Production,3380.0,CDI,Agent de maîtrise,2023-09-11,1,1.3,0
+111,Femme,25,Finance,3740.0,CDD,Agent de maîtrise,2016-09-21,3,8.3,0
+112,Homme,56,IT,4720.0,CDI,Employé,2019-03-21,4,5.8,0
+113,Femme,38,Finance,3190.0,Alternance,Agent de maîtrise,2020-06-26,3,4.5,0
+114,Femme,49,Finance,3400.0,CDD,Employé,2018-06-25,5,6.5,0
+115,Homme,51,Finance,2760.0,CDI,Employé,2015-12-30,6,9.0,0
+116,Femme,50,Production,3830.0,CDI,Cadre dirigeant,2021-06-26,3,3.5,0
+117,Homme,27,Commercial,3010.0,Alternance,Employé,2015-10-13,2,9.2,0
+118,Femme,56,Production,3010.0,Alternance,Cadre,2015-05-29,3,9.6,0
+119,Femme,58,Marketing,3790.0,CDI,Employé,2018-01-12,3,7.0,0
+120,Homme,45,IT,4230.0,CDI,Cadre,2021-09-19,3,3.3,0
+121,Femme,50,Commercial,1310.0,CDI,Employé,2023-04-14,6,1.7,0
+122,Homme,52,Commercial,3620.0,Stage,Cadre dirigeant,2016-03-31,7,8.8,0
+123,Femme,56,Commercial,3060.0,CDI,Agent de maîtrise,2019-11-02,2,5.2,1
+124,Homme,54,Commercial,4150.0,Alternance,Employé,2017-03-10,4,7.8,0
+125,Homme,42,Production,3070.0,CDI,Employé,2018-03-30,3,6.8,0
+126,Femme,53,Commercial,4470.0,CDI,Employé,2017-10-09,6,7.2,0
+127,Femme,44,RH,2690.0,CDI,Agent de maîtrise,2022-10-02,8,2.3,0
+128,Homme,54,IT,1290.0,CDI,Employé,2021-11-12,5,3.1,0
+129,Femme,24,Commercial,4250.0,CDI,Cadre,2019-03-04,4,5.8,0
+130,Femme,39,IT,2540.0,CDI,Agent de maîtrise,2022-08-17,1,2.4,0
+131,Femme,46,RH,1880.0,CDI,Employé,2021-12-31,2,3.0,0
+132,Homme,52,RH,3310.0,CDD,Agent de maîtrise,2016-04-25,5,8.7,0
+133,Homme,24,IT,3080.0,CDI,Cadre,2019-08-14,5,5.4,0
+134,Homme,61,Finance,4040.0,CDI,Employé,2020-12-01,3,4.1,0
+135,Homme,45,Marketing,4100.0,Stage,Employé,2022-08-28,1,2.3,0
+136,Homme,53,Finance,3390.0,Alternance,Employé,2019-05-21,1,5.6,0
+137,Homme,43,Finance,2500.0,Alternance,Cadre,2021-08-05,4,3.4,0
+138,Homme,44,Production,3560.0,Stage,Cadre,2015-12-07,8,9.1,0
+139,Homme,23,Finance,3450.0,CDI,Agent de maîtrise,2022-09-18,3,2.3,0
+140,Homme,48,Commercial,3810.0,CDI,Cadre,2020-07-03,6,4.5,0
+141,Femme,23,Production,2510.0,CDD,Cadre,2022-09-09,1,2.3,0
+142,Homme,47,Production,2940.0,CDD,Agent de maîtrise,2023-04-05,4,1.7,0
+143,Femme,38,RH,3760.0,CDI,Cadre,2021-11-01,4,3.2,0
+144,Femme,61,Finance,4420.0,CDD,Employé,2020-02-10,6,4.9,0
+145,Femme,54,RH,4170.0,CDI,Employé,2017-04-14,1,7.7,0
+146,Homme,30,IT,3370.0,CDI,Employé,2018-04-18,7,6.7,0
+147,Homme,60,Marketing,2860.0,CDI,Employé,2019-09-22,2,5.3,0
+148,Homme,50,Production,3660.0,CDI,Agent de maîtrise,2019-08-17,5,5.4,0
+149,Homme,47,IT,2320.0,CDI,Cadre,2023-12-12,6,1.1,0
+150,Femme,56,IT,2560.0,CDI,Employé,2015-11-07,7,9.2,1
+151,Homme,46,Commercial,4660.0,Alternance,Employé,2015-09-19,5,9.3,0
+152,Homme,45,Marketing,3660.0,CDI,Agent de maîtrise,2018-12-13,4,6.1,1
+153,Homme,34,IT,2990.0,CDI,Cadre,2016-02-10,5,8.9,0
+154,Homme,28,IT,4050.0,Alternance,Employé,2020-12-30,5,4.0,0
+155,Homme,57,Marketing,4460.0,Stage,Agent de maîtrise,2015-12-08,3,9.1,0
+156,Femme,41,Marketing,2900.0,Alternance,Employé,2018-09-01,1,6.3,1
+157,Homme,22,IT,2920.0,CDD,Employé,2023-09-08,4,1.3,0
+158,Femme,29,Marketing,2800.0,CDD,Cadre dirigeant,2015-09-01,8,9.3,0
+159,Homme,37,IT,4170.0,CDI,Cadre dirigeant,2016-05-04,3,8.7,0
+160,Femme,35,IT,4180.0,CDI,Employé,2015-01-12,2,10.0,0
+161,Homme,33,Commercial,4550.0,CDI,Cadre dirigeant,2016-07-14,4,8.5,0
+162,Homme,44,Finance,4210.0,CDI,Agent de maîtrise,2015-02-11,3,9.9,0
+163,Femme,36,IT,1830.0,CDI,Cadre,2022-06-18,3,2.5,0
+164,Femme,49,RH,3550.0,CDD,Agent de maîtrise,2016-08-16,2,8.4,0
+165,Femme,55,Production,2350.0,CDI,Agent de maîtrise,2018-12-23,5,6.0,0
+166,Homme,23,Finance,2840.0,CDI,Agent de maîtrise,2020-01-01,5,5.0,0
+167,Femme,53,Finance,3450.0,CDI,Cadre,2023-11-04,4,1.2,0
+168,Homme,44,Finance,4050.0,CDD,Employé,2019-08-21,3,5.4,1
+169,Homme,43,Commercial,2500.0,CDI,Employé,2015-05-14,7,9.6,0
+170,Femme,46,IT,1210.0,Alternance,Employé,2023-08-05,4,1.4,0
+171,Femme,43,Commercial,3460.0,CDI,Cadre,2023-06-06,3,1.6,0
+172,Homme,43,IT,5680.0,CDI,Employé,2017-08-05,0,7.4,0
+173,Homme,27,Commercial,3120.0,CDI,Cadre,2015-03-14,2,9.8,0
+174,Femme,36,Commercial,3340.0,CDD,Cadre dirigeant,2016-02-03,3,8.9,0
+175,Femme,58,Production,4900.0,CDI,Employé,2018-11-29,3,6.1,0
+176,Femme,54,RH,3830.0,CDD,Cadre,2022-03-10,5,2.8,0
+177,Homme,29,Commercial,3500.0,CDI,Agent de maîtrise,2022-12-16,4,2.0,1
+178,Homme,26,Production,3700.0,CDI,Cadre,2015-05-10,5,9.7,0
+179,Homme,60,Marketing,3530.0,Alternance,Employé,2023-02-26,7,1.8,0
+180,Homme,25,RH,2270.0,CDD,Cadre,2023-12-22,3,1.0,1
+181,Homme,27,Commercial,2090.0,CDD,Cadre,2019-12-17,5,5.0,0
+182,Homme,53,Finance,5000.0,Alternance,Cadre,2020-06-24,2,4.5,0
+183,Femme,51,Marketing,3470.0,Alternance,Cadre,2015-09-23,6,9.3,0
+184,Homme,56,Marketing,3390.0,CDD,Agent de maîtrise,2019-04-10,5,5.7,0
+185,Homme,61,Production,3220.0,CDD,Agent de maîtrise,2020-06-08,6,4.6,0
+186,Homme,37,Marketing,4000.0,CDD,Cadre,2017-03-03,3,7.8,0
+187,Femme,34,RH,5580.0,CDD,Agent de maîtrise,2021-04-19,2,3.7,1
+188,Homme,51,Commercial,3770.0,CDI,Employé,2022-11-09,1,2.1,0
+189,Homme,40,Commercial,2770.0,CDD,Cadre,2018-08-05,2,6.4,0
+190,Femme,38,Finance,3180.0,CDI,Cadre,2015-06-13,3,9.6,0
+191,Homme,40,Production,4260.0,Alternance,Cadre,2015-04-05,2,9.8,1
+192,Homme,49,Finance,2780.0,Alternance,Employé,2019-12-11,7,5.1,0
+193,Homme,47,Marketing,4070.0,CDI,Cadre,2022-11-20,2,2.1,0
+194,Homme,58,Finance,1210.0,CDD,Employé,2018-02-07,4,6.9,0
+195,Homme,47,RH,3090.0,CDI,Cadre,2021-07-11,4,3.5,0
+196,Femme,44,Commercial,3870.0,CDI,Employé,2017-04-01,0,7.8,0
+197,Femme,30,Marketing,4440.0,CDD,Cadre,2015-08-26,4,9.4,0
+198,Femme,33,Finance,2560.0,CDI,Cadre dirigeant,2021-08-25,6,3.4,0
+199,Homme,22,Production,1950.0,CDD,Employé,2023-01-25,4,1.9,0
+200,Homme,22,RH,3070.0,CDD,Cadre dirigeant,2021-12-05,7,3.1,0
+201,Homme,55,RH,2290.0,CDI,Agent de maîtrise,2020-05-14,2,4.6,0
+202,Femme,53,Finance,3170.0,CDI,Cadre,2023-01-28,4,1.9,0
+203,Homme,46,Commercial,3290.0,CDI,Cadre,2017-11-14,5,7.1,0
+204,Homme,61,Finance,2110.0,CDI,Agent de maîtrise,2019-08-04,5,5.4,0
+205,Femme,22,Marketing,4020.0,Stage,Cadre,2023-09-24,1,1.3,0
+206,Homme,37,Finance,3160.0,CDI,Cadre,2021-12-04,5,3.1,0
+207,Femme,60,RH,4270.0,CDI,Agent de maîtrise,2023-02-12,3,1.9,0
+208,Femme,26,Finance,1640.0,CDI,Employé,2023-04-30,4,1.7,0
+209,Femme,43,Commercial,2380.0,CDI,Cadre,2017-08-21,2,7.4,0
+210,Homme,50,Production,3770.0,CDD,Cadre,2016-06-20,5,8.5,0
+211,Homme,24,IT,2580.0,CDI,Cadre,2023-08-17,8,1.4,0
+212,Homme,33,Finance,3150.0,CDD,Cadre,2019-05-23,4,5.6,0
+213,Homme,47,Commercial,3300.0,CDI,Agent de maîtrise,2023-11-19,9,1.1,0
+214,Homme,37,Commercial,3440.0,Stage,Cadre,2020-06-02,3,4.6,0
+215,Homme,58,Production,2690.0,CDI,Employé,2023-06-11,3,1.6,0
+216,Homme,43,RH,3430.0,CDI,Agent de maîtrise,2015-05-08,0,9.7,0
+217,Femme,50,Commercial,2600.0,Alternance,Employé,2015-04-02,4,9.8,1
+218,Homme,35,Commercial,3910.0,CDI,Employé,2016-06-26,4,8.5,0
+219,Femme,49,Commercial,3200.0,Alternance,Employé,2017-04-25,1,7.7,0
+220,Homme,26,Commercial,3440.0,CDD,Employé,2019-08-09,3,5.4,0
+221,Homme,51,Marketing,5610.0,CDI,Cadre,2023-04-25,4,1.7,0
+222,Homme,26,Marketing,2300.0,CDI,Employé,2020-01-26,7,4.9,0
+223,Femme,33,RH,4550.0,CDD,Agent de maîtrise,2021-10-30,4,3.2,0
+224,Femme,37,Finance,910.0,CDI,Employé,2016-01-25,3,8.9,0
+225,Femme,47,Commercial,1430.0,CDI,Employé,2022-06-12,1,2.6,0
+226,Femme,47,Production,2180.0,CDI,Employé,2020-02-28,5,4.8,0
+227,Homme,42,Finance,2240.0,CDI,Employé,2015-02-12,7,9.9,0
+228,Femme,60,Production,3480.0,CDI,Agent de maîtrise,2015-09-11,4,9.3,0
+229,Homme,57,Finance,3560.0,Alternance,Cadre,2023-10-07,4,1.2,0
+230,Homme,54,RH,3070.0,Stage,Agent de maîtrise,2017-12-19,1,7.0,0
+231,Femme,51,Commercial,3170.0,Stage,Agent de maîtrise,2022-06-03,8,2.6,0
+232,Femme,58,Commercial,3770.0,CDD,Employé,2021-11-19,4,3.1,0
+233,Femme,44,IT,4050.0,CDI,Cadre,2021-05-23,1,3.6,0
+234,Femme,31,Production,2110.0,CDD,Agent de maîtrise,2023-05-17,1,1.6,0
+235,Femme,26,Finance,2970.0,CDI,Agent de maîtrise,2019-03-21,2,5.8,0
+236,Femme,57,Finance,3240.0,CDI,Employé,2020-05-07,4,4.7,0
+237,Femme,55,Marketing,3740.0,CDI,Employé,2022-09-26,0,2.3,0
+238,Femme,52,IT,2600.0,CDI,Employé,2021-07-20,7,3.5,1
+239,Homme,31,Marketing,3220.0,CDD,Employé,2016-10-03,4,8.3,0
+240,Femme,40,Marketing,3330.0,CDD,Agent de maîtrise,2021-08-26,7,3.4,0
+241,Femme,53,Marketing,2670.0,CDI,Agent de maîtrise,2016-11-20,6,8.1,0
+242,Homme,22,Production,2640.0,CDI,Agent de maîtrise,2018-06-30,5,6.5,0
+243,Femme,26,Production,3390.0,Stage,Cadre,2020-05-04,7,4.7,0
+244,Homme,25,RH,3180.0,CDI,Cadre,2017-12-15,6,7.1,0
+245,Homme,37,RH,3750.0,CDI,Cadre,2019-01-26,8,5.9,0
+246,Femme,45,Marketing,2350.0,CDI,Cadre dirigeant,2016-04-01,4,8.8,0
+247,Homme,37,IT,2980.0,CDD,Employé,2017-09-09,2,7.3,0
+248,Homme,23,Finance,3090.0,CDD,Employé,2020-10-31,8,4.2,0
+249,Homme,49,Production,4030.0,CDI,Employé,2018-01-27,6,6.9,0
+250,Homme,53,IT,2450.0,CDI,Agent de maîtrise,2015-05-29,2,9.6,0
+251,Femme,48,Commercial,3510.0,CDD,Cadre,2018-09-14,5,6.3,0
+252,Homme,41,Production,3530.0,CDD,Employé,2018-03-25,4,6.8,0
+253,Femme,45,Production,4780.0,CDI,Cadre,2015-07-09,3,9.5,0
+254,Homme,33,RH,2390.0,Stage,Employé,2017-06-01,4,7.6,0
+255,Homme,56,Finance,2710.0,CDI,Cadre,2021-04-29,3,3.7,1
+256,Homme,54,Finance,2460.0,CDI,Employé,2023-08-18,3,1.4,1
+257,Homme,54,Commercial,1800.0,Alternance,Employé,2016-02-04,6,8.9,0
+258,Femme,58,Commercial,4890.0,CDI,Agent de maîtrise,2022-09-12,3,2.3,0
+259,Femme,33,Production,2180.0,CDI,Employé,2016-08-31,3,8.3,0
+260,Homme,24,Marketing,2570.0,CDI,Employé,2019-12-01,3,5.1,0
+261,Homme,22,RH,4480.0,CDI,Employé,2019-06-27,5,5.5,0
+262,Femme,54,RH,1720.0,Stage,Cadre,2019-04-25,3,5.7,0
+263,Homme,61,Production,3980.0,CDI,Agent de maîtrise,2022-10-03,4,2.2,0
+264,Homme,31,IT,2030.0,Alternance,Employé,2020-11-18,3,4.1,0
+265,Homme,50,Marketing,4420.0,CDI,Agent de maîtrise,2018-10-14,3,6.2,0
+266,Femme,34,Production,1350.0,CDI,Cadre,2018-11-04,6,6.2,0
+267,Femme,33,Marketing,1720.0,CDI,Employé,2017-03-30,4,7.8,0
+268,Femme,52,Marketing,2810.0,CDD,Agent de maîtrise,2017-03-30,7,7.8,0
+269,Homme,23,Marketing,4170.0,CDI,Employé,2016-02-24,0,8.9,0
+270,Homme,56,Production,3270.0,Alternance,Employé,2015-05-04,6,9.7,0
+271,Femme,44,RH,3000.0,CDI,Cadre,2016-02-26,3,8.9,1
+272,Femme,38,RH,4510.0,Stage,Employé,2023-08-01,4,1.4,0
+273,Femme,47,Marketing,5240.0,CDI,Agent de maîtrise,2019-02-17,3,5.9,0
+274,Femme,29,IT,3910.0,Alternance,Cadre,2019-05-17,5,5.6,0
+275,Homme,50,Finance,2740.0,CDD,Employé,2017-02-06,3,7.9,0
+276,Femme,47,Production,2920.0,CDD,Agent de maîtrise,2020-08-06,2,4.4,0
+277,Homme,31,Finance,2140.0,CDD,Employé,2021-12-05,1,3.1,1
+278,Femme,47,IT,3390.0,CDD,Cadre dirigeant,2022-01-10,4,3.0,0
+279,Homme,55,Production,1830.0,CDI,Agent de maîtrise,2021-01-11,9,4.0,1
+280,Femme,28,Marketing,3800.0,CDI,Cadre,2020-11-09,2,4.1,0
+281,Femme,25,RH,5110.0,CDI,Agent de maîtrise,2023-04-18,6,1.7,0
+282,Femme,32,Finance,3950.0,Alternance,Employé,2019-03-30,5,5.8,0
+283,Femme,50,Commercial,2880.0,CDI,Agent de maîtrise,2021-11-07,3,3.2,0
+284,Homme,57,Commercial,3770.0,CDD,Cadre dirigeant,2019-10-31,3,5.2,0
+285,Femme,46,IT,4760.0,CDI,Agent de maîtrise,2020-08-06,2,4.4,0
+286,Homme,42,Marketing,4710.0,CDI,Cadre,2022-03-30,4,2.8,1
+287,Homme,57,Finance,2400.0,CDI,Cadre,2016-05-24,3,8.6,0
+288,Homme,31,Marketing,3760.0,CDD,Employé,2018-04-21,1,6.7,0
+289,Homme,58,Finance,3160.0,CDI,Employé,2016-01-21,5,9.0,0
+290,Femme,30,IT,4030.0,CDI,Agent de maîtrise,2019-05-17,4,5.6,0
+291,Homme,45,IT,3650.0,CDI,Agent de maîtrise,2021-09-18,7,3.3,0
+292,Homme,56,Commercial,1170.0,CDI,Cadre,2021-04-12,4,3.7,0
+293,Homme,56,Marketing,2990.0,CDI,Cadre,2017-01-11,7,8.0,0
+294,Femme,57,Production,3480.0,CDI,Employé,2022-06-01,4,2.6,0
+295,Femme,39,Commercial,2010.0,CDD,Employé,2022-05-21,3,2.6,0
+296,Femme,60,Marketing,3820.0,CDI,Cadre,2020-03-26,0,4.8,0
+297,Femme,53,Commercial,1930.0,CDI,Employé,2018-12-17,4,6.0,0
+298,Homme,45,Production,2580.0,CDI,Cadre,2017-06-19,1,7.5,0
+299,Homme,44,RH,4510.0,CDI,Agent de maîtrise,2020-10-13,3,4.2,0
+300,Femme,53,RH,2500.0,CDI,Cadre,2023-06-12,3,1.6,0
